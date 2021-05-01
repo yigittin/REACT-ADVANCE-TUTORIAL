@@ -5,8 +5,8 @@
 https://github.com/john-smilga/ 
 Educational Video
 
-I'm trying to learn React 
-Step by step examples
+I'm trying to learn React with
+step by step examples
 
 1. Birthday Reminder
 
