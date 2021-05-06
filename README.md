@@ -1,4 +1,9 @@
 ## Corresponding Projects
+https://github.com/john-smilga/ 
+Educational Video
+
+I'm trying to learn React with
+step by step examples
 
 #### useState
 
